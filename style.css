@@ -1,0 +1,12 @@
+h1 {
+ color: orange;
+    text-align: center;
+}
+#intro{
+    background-color: yellow
+}
+.first{
+    font-size: 200%;
+}
+#intro .first{color: red}
+#intro .first em {color: green}
